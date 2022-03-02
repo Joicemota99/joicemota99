@@ -1,8 +1,8 @@
-## Olá! Eu sou a Rafaella Ballerini 2
+## Olá! Me chamo Joice 😄
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando Typescript 
-- 😄 Pronouns: ela/dela
+🔭 Hoje trabalho com front-end
+🌱 Estudando JavaScript e Phyton 
+
 
 <div>
   <a href="https://beacons.ai/rafaballerini">
