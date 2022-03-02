@@ -7,7 +7,7 @@
 <div>
   <a href="https://beacons.ai/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joicemota99&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="130em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joicemota99&layout=compact&langs_count=16&theme=cobalt"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joicemota99&layout=compact&langs_count=16&theme=cobalt"/>
 </div>
   <img align="right" width="20%"alt="Rafa-gif" src="https://cdn.discordapp.com/attachments/921384009827749908/948681646457114654/rick-and-morty-warp.gif">
 <div style="display: inline_block"><br>
