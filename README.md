@@ -7,7 +7,7 @@
 <div>
   <a href="https://github.com/Joicemota99">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joicemota99&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joicemota99&layout=compact&langs_count=16&theme=cobalt"/>
+  <img height="100em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joicemota99&layout=compact&langs_count=16&theme=cobalt"/>
 </div>
   <img align="right" width="10%"alt="Rafa-gif" src="https://cdn.discordapp.com/attachments/921384009827749908/948681646247411722/pickle-rick.gif">
 <div style="display: inline_block"><br>
