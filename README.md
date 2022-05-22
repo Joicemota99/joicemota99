@@ -1,7 +1,7 @@
 ## Olá! Me chamo Joice 😄
 
 
-🌱 Estudando JavaScript e Phyton 
+🌱 Estudando JavaScript 
 
 
 <div>
