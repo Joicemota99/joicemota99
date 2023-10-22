@@ -1,7 +1,7 @@
 ## Olá! Me chamo Joice 😄
 
 
-🌱 Estudando JavaScript e Java
+🌱 Aprimorando técnicas me JavaScript, MySql, Postgres, NodeJs e Java
 
 
 <div>
